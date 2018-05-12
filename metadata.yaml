@@ -1,0 +1,48 @@
+_repo: Romola_24020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Cross, Marian Evans
+    - Evans, Marian
+    - Cross, Mary Ann
+    - Lewes, M. E. (Marian Evans)
+    - Lewes, Marian Evans
+    - Evans, Mary Anne
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: Set in Florence in 1492, a time of great political and religious turmoil,
+  George Eliot's only historical novel blends vivid fictional characters with historical
+  figures such as Savonarola, Machiavelli, and the Medicis. When Romola, the virtuous
+  daughter of a blind scholar, marries Tito Melema, a charismatic young Greek, she
+  is bound to a man whose escalating betrayals threaten to destroy all that she holds
+  dear. Profoundly inspired by Savonarola's teachings, then crushed by the religious
+  leader's ultimate failure, Romola finds her salvation in noble self-sacrifice.
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greeks -- Italy -- Florence -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Florence (Italy) -- Fiction'
+- !lcsh 'Self-sacrifice -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Women -- Italy -- Florence -- Fiction'
+- !lcsh 'Savonarola, Girolamo, 1452-1498 -- Fiction'
+- !lcsh 'Psychological fiction'
+title: Romola
+url: http://www.gutenberg.org/ebooks/24020
